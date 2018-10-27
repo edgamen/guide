@@ -9,7 +9,7 @@
 
 [![Gráfico de rendimiento](https://graphs.waffle.io/freeCodeCamp/guide/throughput.svg)](https://waffle.io/freeCodeCamp/guide/metrics)
 
-La comunidad freeCodeCamp está construyendo una **"Guía"**. masiva y de búsqueda.
+La comunidad freeCodeCamp está construyendo una **"Guía"** masiva y de búsqueda.
 
 Esta herramienta de referencia eventualmente incluirá miles de artículos que cubren todas las áreas de desarrollo, diseño y ciencia de datos, todo escrito para que sea fácil de entender por personas nuevas en la codificación.
 
