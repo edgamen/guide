@@ -17,7 +17,7 @@ En este repositorio es donde planificamos y mantenemos estos artículos de la Gu
 
 ## ¿Qué son los artículos de la Guía?
 
-Los artículos de la guía pretenden ser artículos breves para que pueda comenzar y familiarizarse con estos conceptos antes de leer material más detallado.
+Los artículos de la guía pretenden ser artículos breves para que se pueda comenzar y familiarizarse con estos conceptos, antes de leer material más detallado.
 
 Los artículos de la guía pueden ser una explicación de una sintaxis, un patrón de diseño, para qué sirven las etiquetas de aria o algo parecido a lo que significan los números en la esquina superior derecha de su pantalla cuando se encuentra en [freecodecamp.org](https://freecodecamp.org).
 
